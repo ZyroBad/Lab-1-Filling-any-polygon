@@ -4,7 +4,7 @@ Proyecto desarrollado en **Rust** con **Raylib** para dibujar y rellenar polígo
 
 ## Resultado
 
-![Resultado del programa](out.png)
+![Resultado del programa](out.bmp)
 
 ## Ejecución
 
